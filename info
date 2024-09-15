@@ -1,7 +1,15 @@
-*Server maintenance TOOLSV5 Version 6.2.7*
-- Perbaikan Installasi
-- menu 57 ( SHIROKO GALERY EYES )
-1. Script phising
-2. Hasil Ke Bot Telegram 
-- menu 45 ( OSINT NOMBER KE NIK )
-- Perbaikan Keamanan
+Keterangan update TOOLSV5
+- `menstabilkan menu toolsv5` 
+         _ketikan bisa huruf besar / kecil  ( contohnya : dulu *spam* sekarang *spam* &&  *SPAM* ) 2 kata itu tetap valid ( kondisi benar )_
+- `arahan token` 
+          _di perbarui untuk login akses spam ( s1,s2,s4 )_
+- `Menu Bot ( Comback Open )` 
+          _hanya di menu_
+       *- bot2*
+       *- bot4*
+- `peringatan kondisi salah` 
+          _semisal kalian ketik yang bukan dari menu pemberitahuan kondisi salah akan memberitahukan kalian agar tau menu yang anda masukkan itu benar apa salah_
+- `Token Apikey` 
+         _Akan Di perbarui_
+- `Token S5` 
+        _Akan Di Ganti_
