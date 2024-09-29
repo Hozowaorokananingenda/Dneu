@@ -1,12 +1,14 @@
-Update TOOLSV5
+Completed Server maintenance TOOLSV5
 
-saya dengan senang hati mengumumkan pembaruan terbaru untuk TOOLSV5! Berikut adalah beberapa fitur baru yang dapat Anda nikmati:
+                     _Update Version 8.1.5_
+Perbaikan :
+- menu toolsv5 lebih responsif
+- fix bug tidak bisa kembali ke menu TOOLSV5 dari s5,s6
+- penambahan warna background menu ( cyan )
+perbaruan / penambahan script :
+- clear ( menu untuk membantu menghapus cache dari penyimpanan internal )
+- delet ( membantu menghapus script yang terinstall dari TOOLSV5 guna meringankan penyimpanan internal kalian )
+- New Tampilan Web dari S6 dan menambahkan menu stop
 
-1. Menu Berubah Warna: Kami telah memperbarui tampilan menu dengan palet warna yang lebih menarik, memberikan pengalaman pengguna yang lebih segar dan dinamis.
 
-
-2. Efek Suara Blue Archive: Nikmati efek suara yang terinspirasi dari Blue Archive, menambah keseruan saat menggunakan TOOLSV5.
-
-
-
-Segera perbarui dan rasakan perubahannya!
+                     sekian terimakasih
