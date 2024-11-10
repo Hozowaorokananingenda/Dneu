@@ -1,9 +1,11 @@
-Completed Server maintenance TOOLSV5
+*Update kedepannya TOOLSV5*
 
-      Update Version 8.2.0
-Perbaikan :
-- s4 ( Spam Pair All Number )
-- s3 ( Pemblokir Otp WhatsApp )
+- menu 17 ( cam dumper ) akan di update penyedia link phising yaitu 
+      - serveo.net
+      - Cloudflared 
+      - tampian html di ubah 
+- menu 18 ( SSH ) penganti ngrok, perbaikian masalah server link
+- scanning installasi package di perbarui
 
 
-      sekian terimakasih
+> TOOLSV5 version 8.2.5
