@@ -1,8 +1,50 @@
-*Next update TOOLSV5 version 8.3.0*
+📢 PENGUMUMAN UPDATE TOOLSV5 VERSI 8.3.2 📢
 
-• 41 Exit Tools Editor
-• 42 Cctv Monitoring
-• 14 penambahan 2 link
+Berikut adalah update terbaru pada TOOLSV5 versi 8.3.2:
 
-Sekian terimakasih 
-> GALIRUS OFFICIAL
+1. Tampilan tambahan total pengguna dari semua ID TOOLSV5
+
+Kini, Anda dapat melihat total pengguna secara keseluruhan pada dashboard utama.
+
+
+
+2. Loading animasi dihilangkan setelah memasukkan API Key
+
+Proses masuk ke menu menjadi lebih cepat tanpa animasi loading.
+
+
+
+3. Password sekali akses
+
+Password hanya perlu dimasukkan sekali jika tidak ada update.
+
+Jika ada update terbaru, pengguna akan diminta memasukkan password kembali.
+
+
+
+4. Menu all nomor 26 (Cloudflared Link)
+
+Digunakan sebagai alternatif jika layanan Ngrok atau SSH tidak dapat diakses.
+
+
+
+5. S3 (Spam Pairing) - No Restart Spamming
+
+Spam dapat berjalan tanpa batasan.
+
+Catatan: Fitur ini bergantung pada kestabilan jaringan Anda. Jika jaringan tidak stabil, bisa menyebabkan error atau masalah saat pengiriman.
+
+
+
+6. Menu keluar (angka 0) - Peningkatan stabilitas mematikan semua sound/music
+
+Semua suara atau musik akan otomatis dimatikan saat keluar atau meninggalkan TOOLSV5, meningkatkan performa sistem.
+
+
+
+
+
+---
+
+Segera perbarui ke versi terbaru untuk menikmati fitur-fitur ini! 🚀
+
