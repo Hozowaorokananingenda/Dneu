@@ -1,50 +1,9 @@
-📢 PENGUMUMAN UPDATE TOOLSV5 VERSI 8.3.2 📢
-
-Berikut adalah update terbaru pada TOOLSV5 versi 8.3.2:
-
-1. Tampilan tambahan total pengguna dari semua ID TOOLSV5
-
-Kini, Anda dapat melihat total pengguna secara keseluruhan pada dashboard utama.
+Update TOOLSV5
 
 
+perintah 0 ( exit ) di tambahkan di semua kategori
 
-2. Loading animasi dihilangkan setelah memasukkan API Key
+- spam
+- all
 
-Proses masuk ke menu menjadi lebih cepat tanpa animasi loading.
-
-
-
-3. Password sekali akses
-
-Password hanya perlu dimasukkan sekali jika tidak ada update.
-
-Jika ada update terbaru, pengguna akan diminta memasukkan password kembali.
-
-
-
-4. Menu all nomor 26 (Cloudflared Link)
-
-Digunakan sebagai alternatif jika layanan Ngrok atau SSH tidak dapat diakses.
-
-
-
-5. S3 (Spam Pairing) - No Restart Spamming
-
-Spam dapat berjalan tanpa batasan.
-
-Catatan: Fitur ini bergantung pada kestabilan jaringan Anda. Jika jaringan tidak stabil, bisa menyebabkan error atau masalah saat pengiriman.
-
-
-
-6. Menu keluar (angka 0) - Peningkatan stabilitas mematikan semua sound/music
-
-Semua suara atau musik akan otomatis dimatikan saat keluar atau meninggalkan TOOLSV5, meningkatkan performa sistem.
-
-
-
-
-
----
-
-Segera perbarui ke versi terbaru untuk menikmati fitur-fitur ini! 🚀
-
+Misalnya kalian berada di spam kategori dan kalian ingin keluar dari toolsv5 tapi malas untuk bk ( back / kembali ). Kalian bisa langsung pake perintah 0 ( exit ) untuk keluar dari toolsv5 secara cepat
