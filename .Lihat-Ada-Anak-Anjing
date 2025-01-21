@@ -1,5 +1,12 @@
  declare -A audio_urls
      audio_urls=(
+    ["REISA"]="https://static.wikitide.net/bluearchivewiki/8/82/Reisa_EventLogin_1.ogg
+    https://static.wikitide.net/bluearchivewiki/7/7d/Reisa_LogIn_1.ogg
+   https://static.wikitide.net/bluearchivewiki/0/02/Reisa_Formation_Select.ogg
+https://static.wikitide.net/bluearchivewiki/8/82/Reisa_ExSkill_1.ogg
+https://static.wikitide.net/bluearchivewiki/b/b9/Reisa_ExSkill_2.ogg
+https://static.wikitide.net/bluearchivewiki/8/83/Reisa_Growup_4.ogg"
+
           ["ibuki"]="https://static.miraheze.org/bluearchivewiki/transcoded/e/e9/Ibuki_Tactic_Victory_1.ogg/Ibuki_Tactic_Victory_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/c/cb/Ibuki_Lobby_1_1.ogg/Ibuki_Lobby_1_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/3/32/Ibuki_Lobby_1_2.ogg/Ibuki_Lobby_1_2.ogg.mp3
