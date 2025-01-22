@@ -1,29 +1,29 @@
  declare -A audio_urls
      audio_urls=(
-    ["REISA"]="https://static.wikitide.net/bluearchivewiki/8/82/Reisa_EventLogin_1.ogg
+                  ["REISA"]="https://static.wikitide.net/bluearchivewiki/8/82/Reisa_EventLogin_1.ogg
     https://static.wikitide.net/bluearchivewiki/7/7d/Reisa_LogIn_1.ogg
     https://static.wikitide.net/bluearchivewiki/0/02/Reisa_Formation_Select.ogg
     https://static.wikitide.net/bluearchivewiki/8/82/Reisa_ExSkill_1.ogg
     https://static.wikitide.net/bluearchivewiki/b/b9/Reisa_ExSkill_2.ogg
     https://static.wikitide.net/bluearchivewiki/8/83/Reisa_Growup_4.ogg"
 
-          ["ibuki"]="https://static.miraheze.org/bluearchivewiki/transcoded/e/e9/Ibuki_Tactic_Victory_1.ogg/Ibuki_Tactic_Victory_1.ogg.mp3
+                 ["IBUKI"]="https://static.miraheze.org/bluearchivewiki/transcoded/e/e9/Ibuki_Tactic_Victory_1.ogg/Ibuki_Tactic_Victory_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/c/cb/Ibuki_Lobby_1_1.ogg/Ibuki_Lobby_1_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/3/32/Ibuki_Lobby_1_2.ogg/Ibuki_Lobby_1_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/0/0f/Ibuki_Lobby_2.ogg/Ibuki_Lobby_2.ogg.mp3"
-          ["arisu"]="https://static.miraheze.org/bluearchivewiki/transcoded/7/72/Arisu_%28Maid%29_ST0001_MiniGame_Select_2.ogg/Arisu_%28Maid%29_ST0001_MiniGame_Select_2.ogg.mp3
+                 ["ARISU"]="https://static.miraheze.org/bluearchivewiki/transcoded/7/72/Arisu_%28Maid%29_ST0001_MiniGame_Select_2.ogg/Arisu_%28Maid%29_ST0001_MiniGame_Select_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/0/03/Arisu_MemorialLobby_1.ogg/Arisu_MemorialLobby_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/0/0f/Arisu_MemorialLobby_2_1.ogg/Arisu_MemorialLobby_2_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/a/a5/Arisu_MemorialLobby_2_2.ogg/Arisu_MemorialLobby_2_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/b/ba/Arisu_ExSkill_1.ogg/Arisu_ExSkill_1.ogg.mp3"
-          ["mamahina"]="https://static.miraheze.org/bluearchivewiki/transcoded/0/06/Hina_%28Dress%29_LogIn_1.ogg/Hina_%28Dress%29_LogIn_1.ogg.mp3
+                 ["MAMAHINA"]="https://static.miraheze.org/bluearchivewiki/transcoded/0/06/Hina_%28Dress%29_LogIn_1.ogg/Hina_%28Dress%29_LogIn_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/9/96/Hina_%28Dress%29_Lobby_1_2.ogg/Hina_%28Dress%29_Lobby_1_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/3/37/Hina_LogIn_1.ogg/Hina_LogIn_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/1/1d/Hina_Lobby_3.ogg/Hina_Lobby_3.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/3/38/Hina_Lobby_7.ogg/Hina_Lobby_7.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/3/38/Hina_MemorialLobby_4_1.ogg/Hina_MemorialLobby_4_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/a/a8/Hina_MemorialLobby_4_2.ogg/Hina_MemorialLobby_4_2.ogg.mp3"
-          ["nonomi"]="https://static.miraheze.org/bluearchivewiki/transcoded/6/6f/Nonomi_ExSkill_3.ogg/Nonomi_ExSkill_3.ogg.mp3
+                 ["Nonomi"]="https://static.miraheze.org/bluearchivewiki/transcoded/6/6f/Nonomi_ExSkill_3.ogg/Nonomi_ExSkill_3.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/d/dc/Nonomi_Battle_Buffed_1.ogg/Nonomi_Battle_Buffed_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/f/fb/Nonomi_MemorialLobby_1.ogg/Nonomi_MemorialLobby_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/9/91/Nonomi_MemorialLobby_2.ogg/Nonomi_MemorialLobby_2.ogg.mp3
@@ -32,7 +32,7 @@ https://static.miraheze.org/bluearchivewiki/transcoded/0/02/Nonomi_MemorialLobby
 https://static.miraheze.org/bluearchivewiki/transcoded/3/3b/Nonomi_MemorialLobby_4_1.ogg/Nonomi_MemorialLobby_4_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/2/23/Nonomi_Growup_2.ogg/Nonomi_Growup_2.ogg.mp3
 "
-          ["izuna"]="https://static.miraheze.org/bluearchivewiki/transcoded/f/f5/Izuna_Cafe_monolog_1.ogg/Izuna_Cafe_monolog_1.ogg.mp3
+                 ["IZUNA"]="https://static.miraheze.org/bluearchivewiki/transcoded/f/f5/Izuna_Cafe_monolog_1.ogg/Izuna_Cafe_monolog_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/5/51/Izuna_Battle_TacticalAction_1.ogg/Izuna_Battle_TacticalAction_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/2/2f/Izuna_Battle_Shout_3.ogg/Izuna_Battle_Shout_3.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/6/6e/Izuna_LogIn_1.ogg/Izuna_LogIn_1.ogg.mp3
@@ -40,7 +40,7 @@ https://static.miraheze.org/bluearchivewiki/transcoded/4/40/Izuna_LogIn_2.ogg/Iz
 https://static.miraheze.org/bluearchivewiki/transcoded/5/53/Izuna_Lobby_1.ogg/Izuna_Lobby_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/b/b0/Izuna_Lobby_2.ogg/Izuna_Lobby_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/d/dd/Izuna_Lobby_3.ogg/Izuna_Lobby_3.ogg.mp3"
-          ["momoi"]="https://static.miraheze.org/bluearchivewiki/transcoded/b/b2/Momoi_Cafe_monolog_1.ogg/Momoi_Cafe_monolog_1.ogg.mp3
+                ["MOMOI"]="https://static.miraheze.org/bluearchivewiki/transcoded/b/b2/Momoi_Cafe_monolog_1.ogg/Momoi_Cafe_monolog_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/6/62/Momoi_LogIn_1.ogg/Momoi_LogIn_1.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/5/59/Momoi_ExSkill_Level_2.ogg/Momoi_ExSkill_Level_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/6/6f/Momoi_Lobby_3.ogg/Momoi_Lobby_3.ogg.mp3
@@ -49,13 +49,13 @@ https://static.miraheze.org/bluearchivewiki/transcoded/9/91/Momoi_MemorialLobby_
 https://static.miraheze.org/bluearchivewiki/transcoded/4/46/Momoi_MemorialLobby_4.ogg/Momoi_MemorialLobby_4.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/e/e9/Momoi_Tactic_Defeat_2.ogg/Momoi_Tactic_Defeat_2.ogg.mp3
 "
-          ["serika"]="https://static.miraheze.org/bluearchivewiki/transcoded/d/de/Serika_Gachaget.ogg/Serika_Gachaget.ogg.mp3
+                 ["SERIKA"]="https://static.miraheze.org/bluearchivewiki/transcoded/d/de/Serika_Gachaget.ogg/Serika_Gachaget.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/4/4c/Serika_Growup_2.ogg/Serika_Growup_2.ogg.mp3"
           ["shiroko"]="https://static.miraheze.org/bluearchivewiki/transcoded/c/c6/Shiroko_%28Swimsuit%29_LogIn_1_1.ogg/Shiroko_%28Swimsuit%29_LogIn_1_1.ogg.mp3
    https://static.miraheze.org/bluearchivewiki/transcoded/2/25/Shiroko_%28Swimsuit%29_Lobby_2.ogg/Shiroko_%28Swimsuit%29_Lobby_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/2/2e/Shiroko_%28Swimsuit%29_MemorialLobby_1_1.ogg/Shiroko_%28Swimsuit%29_MemorialLobby_1_1.ogg.mp3"
 
-          ["hoshino"]="https://static.miraheze.org/bluearchivewiki/transcoded/2/2a/Hoshino_Gachaget.ogg/Hoshino_Gachaget.ogg.mp3
+                  ["HOSHINO"]="https://static.miraheze.org/bluearchivewiki/transcoded/2/2a/Hoshino_Gachaget.ogg/Hoshino_Gachaget.ogg.mp3
        https://static.miraheze.org/bluearchivewiki/transcoded/d/dd/Hoshino_Cafe_Act_2.ogg/Hoshino_Cafe_Act_2.ogg.mp3 
        https://static.miraheze.org/bluearchivewiki/transcoded/e/e1/Hoshino_LogIn_1.ogg/Hoshino_LogIn_1.ogg.mp3
         https://static.miraheze.org/bluearchivewiki/transcoded/f/ff/Hoshino_LogIn_2.ogg/Hoshino_LogIn_2.ogg.mp3
@@ -71,7 +71,8 @@ https://static.miraheze.org/bluearchivewiki/transcoded/0/01/Hoshino_Battle_Victo
 https://static.miraheze.org/bluearchivewiki/transcoded/e/e8/Hoshino_Battle_Victory_2.ogg/Hoshino_Battle_Victory_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/d/dd/Hoshino_Relationship_Up_2.ogg/Hoshino_Relationship_Up_2.ogg.mp3
 https://static.miraheze.org/bluearchivewiki/transcoded/3/37/Hoshino_Relationship_Up_4.ogg/Hoshino_Relationship_Up_4.ogg.mp3"
-["SAORI"]="https://static.miraheze.org/bluearchivewiki/e/e6/Saori_%28Swimsuit%29_Cafe_monolog_1.ogg
+
+                 ["SAORI"]="https://static.miraheze.org/bluearchivewiki/e/e6/Saori_%28Swimsuit%29_Cafe_monolog_1.ogg
 https://static.miraheze.org/bluearchivewiki/0/05/Saori_%28Swimsuit%29_Cafe_monolog_2.ogg
 https://static.miraheze.org/bluearchivewiki/f/f9/Saori_%28Swimsuit%29_Cafe_monolog_3.ogg
 https://static.miraheze.org/bluearchivewiki/c/cf/Saori_%28Swimsuit%29_Cafe_monolog_4.ogg
@@ -87,7 +88,7 @@ https://static.miraheze.org/bluearchivewiki/0/0c/Saori_%28Swimsuit%29_MemorialLo
 https://static.miraheze.org/bluearchivewiki/2/20/Saori_%28Swimsuit%29_MemorialLobby_4.ogg
 https://static.miraheze.org/bluearchivewiki/6/67/Saori_%28Swimsuit%29_MemorialLobby_5.ogg"
 
-["MITSUKI"]="https://static.miraheze.org/bluearchivewiki/b/b5/Mutsuki_Cafe_monolog_1.ogg
+                ["MITSUKI"]="https://static.miraheze.org/bluearchivewiki/b/b5/Mutsuki_Cafe_monolog_1.ogg
 https://static.miraheze.org/bluearchivewiki/2/20/Mutsuki_Cafe_monolog_2.ogg
 https://static.miraheze.org/bluearchivewiki/a/af/Mutsuki_Cafe_monolog_3.ogg
 https://static.miraheze.org/bluearchivewiki/e/e3/Mutsuki_Cafe_Act_1.ogg
@@ -106,7 +107,7 @@ https://static.miraheze.org/bluearchivewiki/3/3b/Mutsuki_MemorialLobby_5_1.ogg
 https://static.miraheze.org/bluearchivewiki/2/21/Mutsuki_MemorialLobby_5_2.ogg
 https://static.miraheze.org/bluearchivewiki/0/05/Mutsuki_MemorialLobby_6.ogg"
 
-["MIKA"]="https://static.wikitide.net/bluearchivewiki/4/42/Mika_LogIn_1.ogg
+                ["MIKA"]="https://static.wikitide.net/bluearchivewiki/4/42/Mika_LogIn_1.ogg
 https://static.wikitide.net/bluearchivewiki/7/7b/Mika_Cafe_monolog_2.ogg
 https://static.wikitide.net/bluearchivewiki/5/52/Mika_Battle_Defense_1.ogg
 https://static.wikitide.net/bluearchivewiki/a/a3/Mika_Battle_TacticalAction_1.ogg
@@ -133,7 +134,7 @@ https://static.miraheze.org/bluearchivewiki/5/57/Mika_MemorialLobby_5_3.ogg
 https://static.miraheze.org/bluearchivewiki/0/07/Mika_MemorialLobby_5_4.ogg"
 
 
-["KASUZA"]="https://static.miraheze.org/bluearchivewiki/4/42/Kazusa_Cafe_monolog_1.ogg
+                ["KASUZA"]="https://static.miraheze.org/bluearchivewiki/4/42/Kazusa_Cafe_monolog_1.ogg
 https://static.miraheze.org/bluearchivewiki/d/d3/Kazusa_Cafe_monolog_2.ogg
 https://static.miraheze.org/bluearchivewiki/4/48/Kazusa_Cafe_monolog_3.ogg
 https://static.miraheze.org/bluearchivewiki/d/da/Kazusa_Cafe_monolog_4.ogg
@@ -152,7 +153,7 @@ https://static.miraheze.org/bluearchivewiki/4/44/Kazusa_MemorialLobby_5_1.ogg
 https://static.miraheze.org/bluearchivewiki/c/c9/Kazusa_MemorialLobby_5_2.ogg
 https://static.miraheze.org/bluearchivewiki/6/61/Kazusa_MemorialLobby_5_3.ogg"
 
-["HINADRES"]="https://static.miraheze.org/bluearchivewiki/d/da/Hina_%28Dress%29_Cafe_monolog_1.ogg
+                ["HINADRES"]="https://static.miraheze.org/bluearchivewiki/d/da/Hina_%28Dress%29_Cafe_monolog_1.ogg
 https://static.miraheze.org/bluearchivewiki/3/34/Hina_%28Dress%29_Cafe_monolog_2.ogg
 https://static.miraheze.org/bluearchivewiki/9/9f/Hina_%28Dress%29_Cafe_monolog_3.ogg
 https://static.miraheze.org/bluearchivewiki/1/19/Hina_%28Dress%29_Cafe_monolog_4.ogg
@@ -171,7 +172,7 @@ https://static.miraheze.org/bluearchivewiki/b/b4/Hina_%28Dress%29_MemorialLobby_
 https://static.miraheze.org/bluearchivewiki/7/7d/Hina_%28Dress%29_MemorialLobby_5_1.ogg
 https://static.miraheze.org/bluearchivewiki/5/55/Hina_%28Dress%29_MemorialLobby_5_2.ogg"
 
-["HINA"]="https://static.miraheze.org/bluearchivewiki/f/f3/Hina_Cafe_Act_1.ogg
+                  ["HINA"]="https://static.miraheze.org/bluearchivewiki/f/f3/Hina_Cafe_Act_1.ogg
 https://static.miraheze.org/bluearchivewiki/a/a1/Hina_Cafe_Act_2.ogg
 https://static.miraheze.org/bluearchivewiki/5/5c/Hina_Cafe_Act_3.ogg
 https://static.miraheze.org/bluearchivewiki/e/ed/Hina_Cafe_Act_4.ogg
@@ -187,7 +188,7 @@ https://static.miraheze.org/bluearchivewiki/c/ce/Hina_MemorialLobby_3_2.ogg
 https://static.miraheze.org/bluearchivewiki/3/38/Hina_MemorialLobby_4_1.ogg
 https://static.miraheze.org/bluearchivewiki/a/a8/Hina_MemorialLobby_4_2.ogg"
 
-["HARUKA"]="https://static.miraheze.org/bluearchivewiki/b/bb/Haruka_Cafe_monolog_1.ogg
+               ["HARUKA"]="https://static.miraheze.org/bluearchivewiki/b/bb/Haruka_Cafe_monolog_1.ogg
 https://static.miraheze.org/bluearchivewiki/d/db/Haruka_Cafe_monolog_2.ogg
 https://static.miraheze.org/bluearchivewiki/b/b4/Haruka_Cafe_monolog_3.ogg
 https://static.miraheze.org/bluearchivewiki/8/8b/Haruka_Cafe_Act_1.ogg
@@ -205,7 +206,7 @@ https://static.miraheze.org/bluearchivewiki/f/f9/Haruka_MemorialLobby_4_2.ogg
 https://static.miraheze.org/bluearchivewiki/1/1f/Haruka_MemorialLobby_5.ogg"
 
 
-["HANAKO"]="https://static.miraheze.org/bluearchivewiki/9/93/Hanako_Cafe_monolog_1.ogg
+               ["HANAKO"]="https://static.miraheze.org/bluearchivewiki/9/93/Hanako_Cafe_monolog_1.ogg
 https://static.miraheze.org/bluearchivewiki/8/8f/Hanako_Cafe_monolog_2.ogg
 https://static.miraheze.org/bluearchivewiki/4/45/Hanako_Cafe_monolog_3.ogg
 https://static.miraheze.org/bluearchivewiki/0/0e/Hanako_Cafe_Act_1.ogg
