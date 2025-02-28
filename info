@@ -1,8 +1,17 @@
+`Update TOOLSV5 V.8.4.5`
 
+_perbaiki system tampilan toolsv5 penataan garis yang sebelumnya tidak sejajar di antara_
+- IP
+- Nikename
+- ID
+- hari & tanggal 
+ Kini di perbaiki agar garis sama rata dengan yang lainnya ini berguna untuk kenyamanan penggunaan
 
-Menghadirkan Script Spam Otp Tele Dari Developer Sanz Yang dimana Script Ini Mengirimkan Otp Dengan Jumlah Yang banyak Tergantung Pada Penguna Untuk Memasukkan Jumlahnya 
-
-Script Ini Hadir Di kategori Buy ( produk Berbayar )
-Untuk pemakaian sekali beli kalian bisa memakai nya secara permanen ( asalkan tidak hapus data ) apk termux kalian
-
-Sekian terimakasih banyak
+_Update Script_
+- 28 ( CLOUDFLARED URL ) Berguna untuk membantu mengkonfigurasi link localhost menjadi link url publik menu ini bisa kalian kombinasikan dengan menu s4,11,12,18
+- 18 ( Gemini AI Localhost ) adalah website / bot ai yang di akses dari Termux menuju ke browser dengan jaringan localhost. Seperti yang ku bilang sebelumnya localhost Gemini ini bisa kalian akses url ke publik dengan kombo dari menu 28 ( CLOUDFLARED URL ) agar bisa di nikmati oleh orang / teman kalian
+- gal <url> untuk download tiktok,yt MP3/mp4
+Kini menghadirkan hiburan yt play via Termux
+- mpv YouTube play mode
+     Kegunaan mpv ini kehadiran hiburan semata untuk alternatif pemutaran musik  yang dimana kita di YouTube tidak dapat akses Premium untuk pemutaran audio latar belakang dengan mode ini kalian bisa memutar audio/playlist kesukaan kalian dari teemux hanya dengan perintah 
+`mpvtube` <"url">
